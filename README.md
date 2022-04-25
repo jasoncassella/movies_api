@@ -1,3 +1,3 @@
-this app uses an api from http://www.omdbapi.com/ to display movies from a user search
+this app uses an api from http://www.omdbapi.com/ to display movies given a user query
 
 this was my first project using react
